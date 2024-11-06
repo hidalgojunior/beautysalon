@@ -1,0 +1,28 @@
+# Arquivos de configuração
+/config/config.php
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Diretórios de dependências
+/vendor/
+/node_modules/
+
+# Arquivos de cache
+*.cache
+
+# Arquivos temporários
+/tmp/
+/temp/
+
+# Arquivos de upload
+/uploads/*
+!/uploads/.gitkeep 
